@@ -23,5 +23,6 @@
   "homepage": "https://github.com/abreuroberto2015/gama_academy_nodejs#readme",
   "dependencies": {
     "query-string": "^7.0.1"
-  }
+  },
+  "devDependencies": {}
 }
